@@ -1,0 +1,43 @@
+{ "freq" : [
+  {
+    "question": "What is Minecraft?",
+    "answer": "Minecraft is a sandbox video game developed by Mojang Studios, where players can build and explore virtual worlds made up of blocks."
+  },
+  {
+    "question": "How do I craft items?",
+    "answer": "To craft items, open your crafting table or inventory, place the required materials in the crafting grid, and then drag the crafted item into your inventory."
+  },
+  {
+    "question": "What are the different game modes in Minecraft?",
+    "answer": "Minecraft has several game modes, including Survival, Creative, Adventure, and Spectator mode, each offering different gameplay experiences."
+  },
+  {
+    "question": "How do I find diamonds?",
+    "answer": "Diamonds can be found deep underground, typically between levels 1 and 15. Use a pickaxe to mine diamond ore blocks."
+  },
+  {
+    "question": "What is the Nether?",
+    "answer": "The Nether is a hell-like dimension in Minecraft that can be accessed through a Nether portal. It contains unique resources and hostile mobs."
+  },
+  {
+    "question": "How do I tame a horse?",
+    "answer": "To tame a horse, right-click or tap on it repeatedly until hearts appear, indicating that it has been tamed."
+  },
+  {
+    "question": "What are mobs?",
+    "answer": "Mobs are living entities in Minecraft, which can be passive, neutral, or hostile. Examples include animals, villagers, and monsters."
+  },
+  {
+    "question": "How do I make a bed?",
+    "answer": "To craft a bed, you need 3 wool and 3 wooden planks. Place the wool in the top row and the wooden planks in the bottom two rows of the crafting grid."
+  },
+  {
+    "question": "What is redstone?",
+    "answer": "Redstone is a material in Minecraft used to create complex machinery and circuits, allowing players to build contraptions and automate tasks."
+  },
+  {
+    "question": "How do I survive my first night?",
+    "answer": "To survive your first night, gather wood to craft tools, build a shelter, and gather food. Make sure to avoid hostile mobs."
+  }
+]
+}
